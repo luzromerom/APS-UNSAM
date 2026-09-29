@@ -1,1 +1,15 @@
-* Excelente trabajo Luz
+* Correcciones de las TSs
+
+* TS2: Cuantización
+
+    * Excelente trabajo Luz
+
+* TS3: Desparramo espectral
+
+    * Los ejes verticales de los espectros tienen "Potencia" como etiqueta, eso no es correcto. La Potencia
+      en todo caso es la sumatoria de esos valores del espectro en todo el rango de frecuencia de 0 a N.
+
+    * Hay algunos errores menores de edición en el análisis del inciso C.
+
+    * Falta explicar desde el punto de vista de la convolución en frecuencia (en el inciso C  o la conclusión), 
+      por qué el espectro adquiere esa forma. 
