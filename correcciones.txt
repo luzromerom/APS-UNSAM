@@ -13,3 +13,9 @@
 
     * Falta explicar desde el punto de vista de la convolución en frecuencia (en el inciso C  o la conclusión), 
       por qué el espectro adquiere esa forma. 
+
+* TS4: Estimadores
+
+    * Gran trabajo.
+    * Sólo veo en los gráficos, que en el eje vertical usás etiquetas que no son del todo correctas, por decirlo 
+      de alguna manera. Por ejemplo, amplitud espectral o densidad de probabilidad.
