@@ -19,3 +19,11 @@
     * Gran trabajo.
     * Sólo veo en los gráficos, que en el eje vertical usás etiquetas que no son del todo correctas, por decirlo 
       de alguna manera. Por ejemplo, amplitud espectral o densidad de probabilidad.
+
+* TS5: Estimación Espectral
+
+    * Gran Trabajo.
+    * Decir que: ¨el uso de K=80 representa una reducción aproximada del 25% en la varianza respecto de K=60¨ es 
+      mucho. La varianza del estimador de Welch como inversamente proporcional a M es sólo una aproximación que 
+      se da en casos particulares ideales que en general no se cumplen. Sirve para un análisis cualitativo, pero no 
+      cuantitativo. Con poner que uno espera una reducción de la varianza ya estaba bien.
